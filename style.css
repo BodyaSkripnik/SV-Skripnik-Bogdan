@@ -111,6 +111,11 @@ body {
   font-size: 3.75em;
 }
 
+.link{
+  display: flex;
+  gap: 20px;
+}
+
 .resume__skills-titile {
   margin-bottom: 20px;
 }
